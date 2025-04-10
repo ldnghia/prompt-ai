@@ -1,9 +1,3 @@
-
----
-
-### 2. `frontend/debug-error.md`
-
-```markdown
 # 🐞 Debug lỗi trong Frontend
 
 ## ✅ Mục đích
